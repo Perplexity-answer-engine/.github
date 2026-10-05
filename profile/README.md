@@ -10,7 +10,7 @@ The tool fits people who think in questions. Perplexity research assistant sessi
 
 Perplexity also supports comparison work. Ask for two viewpoints, ask what changed recently, or ask for the strongest counterargument, and Perplexity cited sources keep the reasoning traceable. When a topic needs depth, Perplexity follow-up questions extend the same conversation instead of starting over, so a single session can grow into a structured research note.
 
-![Perplexity](https://static.cnews.ru/img/book/2025/12/11/perplexity_ai_logo.png)
+![Perplexity](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/91/09/7e910905-6029-f89c-df14-6182cf43fcee/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/1200x630wa.png)
 
 ## Perplexity at a Glance
 
